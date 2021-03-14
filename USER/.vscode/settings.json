@@ -1,0 +1,19 @@
+{
+
+    "search.exclude": {
+ 
+     //不需要使用搜索的文件
+ 
+     },
+ 
+     "files.exclude": {
+ 
+     //不需要显示的文件
+ 
+     "CMSIS" : true,//隐藏docs文件夹
+ 
+     "MDK_STARTUP" : true,//隐藏A开头的文件夹
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+ 
+ }
