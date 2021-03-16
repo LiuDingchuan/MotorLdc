@@ -3,19 +3,19 @@
         {
             "name": "Target 1",
             "includePath": [
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\GeneralFunction\\inc",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\Libraries\\CMSIS",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\Libraries\\Startup",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\Libraries\\STM32F4xx_StdPeriph_Driver\\inc",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\uCOSII\\CONFIG",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\uCOSII\\CORE",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\uCOSII\\PORT",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\USER\\INC",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\GeneralFunction\\inc",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\Libraries\\CMSIS",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\Libraries\\Startup",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\Libraries\\STM32F4xx_StdPeriph_Driver\\inc",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\uCOSII\\CONFIG",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\uCOSII\\CORE",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\uCOSII\\PORT",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\USER\\INC",
                 "E:\\ARM\\ARMCC\\include",
                 "E:\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\USER\\SRC",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\GeneralFunction\\src",
-                "c:\\Users\\24828\\Desktop\\螺旋升天定川机构\\一代车DR进攻ldc\\Libraries\\STM32F4xx_StdPeriph_Driver\\src"
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\USER\\SRC",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\GeneralFunction\\src",
+                "c:\\Users\\24828\\Desktop\\MotorLdc\\Libraries\\STM32F4xx_StdPeriph_Driver\\src"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",
